@@ -8,6 +8,7 @@ public class Main2 {
         System.out.println("更新在线1111");
         System.out.println("2222");
         System.out.println(0000);
+        System.out.println(000011111111111);
 
     }
 }
