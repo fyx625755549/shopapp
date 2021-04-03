@@ -3,5 +3,6 @@ public class Main {
         System.out.println("更新git");
         System.out.println("dev");
         System.out.println("master");
+        System.out.println("github");
     }
 }
