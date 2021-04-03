@@ -3,5 +3,6 @@ public class Main2 {
         System.out.println(111);
         System.out.println("创建分支");
         System.out.println("创建分支");
+        System.out.println("添加主干");
     }
 }
